@@ -26,14 +26,8 @@ This project is a simple Rock-Paper-Scissors game built with Python's Tkinter li
 ### Installation
 
 1. Ensure you have Python installed. If not, download and install it from [python.org](https://www.python.org/).
-2. Clone this repository:
 
-```bash
-git clone https://github.com/yourusername/codsoft-python-internship.git
-cd codsoft-python-internship
-```
-
-3. Run the game:
+2. Run the game:
 
 ```bash
 python Rock_Paper_Scissors_updated.py
