@@ -1,4 +1,3 @@
-```markdown
 # CodSoft Python Programming Internship Task Submission
 
 This repository contains the task submissions for the Python Programming Internship conducted by CodSoft. The tasks demonstrate fundamental concepts and skills in Python programming, showcasing my learning and application throughout the internship.
