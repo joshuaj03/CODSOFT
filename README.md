@@ -92,5 +92,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 This task was completed as part of the CodSoft Python Programming Internship. It demonstrates basic Python programming skills and the ability to create simple applications with both command-line and graphical user interfaces.
-```
+
 
