@@ -1,2 +1,2 @@
 # CODSOFT
-Task submission for CodSoft intership on Python Programming
+Task submission for CodSoft internship on Python Programming
